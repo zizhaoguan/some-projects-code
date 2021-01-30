@@ -1,0 +1,19 @@
+seq1:the predict correct percentage is =  0.6081504702194357
+
+seq2:the predict correct percentage is =  0.611934766493699
+
+seq3:the predict correct percentage is =  0.6018860946745562
+
+seq4:the predict correct percentage is =  0.6006655574043261
+
+seq5:the predict correct percentage is =  0.5761489433076149
+
+seq6:the predict correct percentage is =  0.6043245241175383
+
+seq7:the predict correct percentage is =  0.5744537815126051
+
+seq8:the predict correct percentage is =  0.6007766272189349
+
+seq9:the predict correct percentage is =  0.6150174407930972
+
+seq10:the predict correct percentage is =  0.6169190986331733
